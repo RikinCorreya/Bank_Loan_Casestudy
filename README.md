@@ -1,12 +1,6 @@
 # Bank_Loan_Casestudy
 
-
-The Bank Loan Case Study project, My aim is to use Exploratory Data Analysis
-(EDA) to analyze patterns in the data and ensure that capable applicants are not
-rejected
-My task is to use Exploratory Data Analysis (EDA) to analyze patterns in the data
-and ensure that capable applicants are not rejected.
-
-Through in depth data analysis using Excel, Data Visualization and Statistics
-techniques this project seeks to extract valuable insights and to identify patterns
-that indicate if a customer will have difficulty paying their installments.
+1. Perform Exploratory Data Analysis (EDA) to assess how various consumer attributes influence the likelihood of loan default. The goal is to uncover insights from the data that can inform risk assessment strategies.
+2. Identify patterns of loan default by analyzing the key factors driving these outcomes. Strong indicators of default will be pinpointed through detailed examination of the data.
+3. Handle missing data, detect outliers, and address data imbalances as part of the analysis. Provide a thorough explanation of findings from univariate, segmented univariate, and bivariate analyses to understand consumer behavior and risk factors.
+4. Determine the top 10 correlations between clients facing payment difficulties and all other cases. This analysis will help identify key relationships in the data and better understand the factors associated with default.
