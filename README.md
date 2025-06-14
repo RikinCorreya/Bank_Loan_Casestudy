@@ -6,4 +6,4 @@
 4. Determine the top 10 correlations between clients facing payment difficulties and all other cases. This analysis will help identify key relationships in the data and better understand the factors associated with default.
 
 
-**Go through the Presentation file to have a look at all the approches,steps,file usages, analysis and results. It also contains links to all files in a public drive folder along with tasks and the reasoning behind each solution** 
+**Go through the Presentation file to have a look at all the approches,steps,file usages, analysis and results. It also contains links to all dirty and clean csv files as well as python files and plot images in a public drive folder along with tasks and the reasoning behind each solution** 
