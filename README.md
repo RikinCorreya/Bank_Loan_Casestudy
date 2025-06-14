@@ -4,3 +4,6 @@
 2. Identify patterns of loan default by analyzing the key factors driving these outcomes. Strong indicators of default will be pinpointed through detailed examination of the data.
 3. Handle missing data, detect outliers, and address data imbalances as part of the analysis. Provide a thorough explanation of findings from univariate, segmented univariate, and bivariate analyses to understand consumer behavior and risk factors.
 4. Determine the top 10 correlations between clients facing payment difficulties and all other cases. This analysis will help identify key relationships in the data and better understand the factors associated with default.
+
+
+**Go through the Presentation file to have a look at all the approches,steps,file usages, analysis and results. It also contains links to all files in a public drive folder along with tasks and the reasoning behind each solution** 
